@@ -1,6 +1,6 @@
 {
   "name": "node-bosh",
-  "version": "1.0-dev",
+  "version": "1.0.0-dev",
   "author": "Sonny Piers <sonny@fastmail.net>",
   "description": "BOSH client implementation library for nodejs.",
   "main": "./lib/BOSH.js",
@@ -14,7 +14,7 @@
     "server"
   ],
   "dependencies" : {
-    "ltx"   :  "0.2.*"
+    "ltx"   :  "0.2.0"
   },
   "license": "MIT",
   "engine": {
